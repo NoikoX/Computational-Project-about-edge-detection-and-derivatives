@@ -9,4 +9,9 @@
 ![image](https://github.com/user-attachments/assets/0f0d2730-2906-4839-b997-8fe0da391acc)
 
 
+## Then comes the question, what if our image is noisy? What can we do about it?
+### Solution:
+![image](https://github.com/user-attachments/assets/8caa33d2-1d62-4b46-8a19-73d8897888f0)
+
+
 
